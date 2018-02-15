@@ -1,9 +1,11 @@
 # hello-world
 
 aaa ooo
-Оля осваивает git
-Когда меня отпустит.
+ГЋГ«Гї Г®Г±ГўГ ГЁГўГ ГҐГІ git
+ГЉГ®ГЈГ¤Г  Г¬ГҐГ­Гї Г®ГІГЇГіГ±ГІГЁГІ.
 
 New horizon
 
 Olga Igorevna wins
+
+Spartak - ne chempion.
